@@ -1,7 +1,4 @@
 ﻿using System;
-
-// The System.Linq namespace provides classes and interfaces that support 
-// queries that use Language-Integrated Query (LINQ).
 using System.Linq;
 
 namespace bubble_sort
